@@ -1,11 +1,12 @@
 {
-  "name": "Your Name",
-  "description": "Add a short bio here, then swap these starter links for your own.",
-  "avatar": "/uploads/avatar-placeholder.svg",
-  "showAttribution": true,
+  "name": "Lancelot Barretto",
+  "title": "",
+  "description": "ARTS ACADEMY owner artist",
+  "avatar": "/uploads/avatar.jpg",
+  "showAttribution": false,
   "theme": {
-    "primary": "#6366F1",
-    "secondary": "#4F46E5",
+    "primary": "#ffffc9",
+    "secondary": "#ffffc9",
     "background": "#FFFFFF",
     "text": "#1F2937"
   },
@@ -23,18 +24,11 @@
       "icon": "instagram"
     },
     {
-      "title": "YouTube",
-      "subtitle": "Your channel",
-      "url": "https://youtube.com/@yourhandle",
-      "icon": "youtube"
-    },
-    {
       "title": "Email me",
       "subtitle": "you@yourdomain.com",
       "url": "mailto:you@yourdomain.com",
       "icon": "mail"
     }
   ],
-  "metaTitle": "",
-  "metaDescription": ""
+  "realhandles": "Lancelotpro"
 }
